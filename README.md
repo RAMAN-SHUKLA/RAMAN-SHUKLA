@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Raman Shukla
 
-⚡ Full-Stack Engineer & AI Systems Developer
+⚡ Full-Stack & Generative AI Engineer
 💻 Strong foundation in Software Architecture, RESTful APIs, and Web Systems
 🚀 Building scalable web applications and high-performance software
 
@@ -27,6 +27,11 @@
 
 ### 🧰 Tools & Platforms
 - Git, GitHub, Postman, VS Code, Linux
+
+  ### 🤖 Generative AI & LLMs
+- **LLM APIs & Frameworks:** OpenAI API, Anthropic Claude API, LangChain, Ollama
+- **Core Concepts:** Prompt Engineering, Retrieval-Augmented Generation (RAG), Function Calling / Tool Use
+
 
 ---
 
